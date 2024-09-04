@@ -20,7 +20,7 @@ const VisitorForm = () => {
       entryTime: "10:00",
     },
     {
-      name: "Aarav",
+      name: "Shikhar",
       contactNumber: "9876543210",
       email: "aarav@example.com",
       purpose: "Interview",
