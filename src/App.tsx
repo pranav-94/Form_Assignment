@@ -22,7 +22,7 @@ const VisitorForm = () => {
     {
       name: "Shikhar",
       contactNumber: "9876543210",
-      email: "aarav@example.com",
+      email: "shikhar@example.com",
       purpose: "Interview",
       companyName: "Globex Inc",
       entryTime: "11:00",
