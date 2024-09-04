@@ -27,7 +27,6 @@ const VisitorForm = () => {
       companyName: "Globex Inc",
       entryTime: "11:00",
     },
-    // Add more previous visitors here
   ]);
 
   const handleChange = (e:any) => {
@@ -65,7 +64,6 @@ const VisitorForm = () => {
 
     console.log(visitor);
 
-    // Add the visitor to the previous visitors list
     setPreviousVisitors([...previousVisitors, visitor]);
   };
 
